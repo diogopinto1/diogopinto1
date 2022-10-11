@@ -20,6 +20,5 @@
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B5WNB6ll1REqIGgIjAMhdWA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  	
   
- ![Snake animation](https://github.com/24832/24832/blob/output/github-contribution-grid-snake.svg)
-  
+
 
