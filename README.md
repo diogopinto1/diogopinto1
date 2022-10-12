@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome to my page! 👋
 
 <div align="center">
   <a href="https://github.com/24832">
