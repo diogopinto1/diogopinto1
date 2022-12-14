@@ -9,7 +9,7 @@
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://scontent.flis7-1.fna.fbcdn.net/v/t1.6435-9/101959159_3070670612968150_6364864352624143288_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WEjGA3-9nfAAX_cq5AP&_nc_ht=scontent.flis7-1.fna&oh=00_AT8fOEai8mi8Ct1bIk6vcbRVcYfzOyzZ4-I3g9mdqogffw&oe=636A9C12](https://www.isa.ulisboa.pt/sites/all/themes/isa/favicon.ico)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.flis7-1.fna.fbcdn.net/v/t1.6435-9/101959159_3070670612968150_6364864352624143288_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WEjGA3-9nfAAX_cq5AP&_nc_ht=scontent.flis7-1.fna&oh=00_AT8fOEai8mi8Ct1bIk6vcbRVcYfzOyzZ4-I3g9mdqogffw&oe=636A9C12]">
  
 </div>
   
