@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/24832">
+  <a href="https://github.com/diogopinto1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=24832&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24832&layout=compact&langs_count=16&theme=merko"/>
 </div>
@@ -34,5 +34,5 @@
   
   
 
-![snake gif](https://github.com/24832/24832/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/diogopinto1/diogopinto1/blob/output/github-contribution-grid-snake.svg)
 
