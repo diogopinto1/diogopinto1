@@ -19,7 +19,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
               
           
-  <img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;" src="[https://www.isa.ulisboa.pt/files/site/pub/LogoISA.jpg](https://www.isa.ulisboa.pt/files/site/pub/LogoISA.png)">
+  <img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;" src="https://www.isa.ulisboa.pt/files/site/pub/LogoISAbw.png">
  
 </div>
   
