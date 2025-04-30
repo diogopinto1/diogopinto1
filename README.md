@@ -19,7 +19,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
               
           
-  <img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;" src="https://scontent.flis10-1.fna.fbcdn.net/v/t39.30808-6/326545638_1219079385378420_4541399000901481588_n.png?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=ts4snw1OQXMQ7kNvwHPXzp4&_nc_oc=AdnWCwZreQw8hvRrQxbReDe3VDjnC-2oXsMyp5csMKZOEQQ8Bk_u0HnbyX5lkxQ0g9I&_nc_zt=23&_nc_ht=scontent.flis10-1.fna&_nc_gid=1BJlG-Hxyhhu0u0TPWF9Bg&oh=00_AfHQsk_DryUxSEFttoKxCW1f-3of0JEWe4u0q3VOePOh2w&oe=6817FC4D">
+  <img align="left" alt="Rafa-pic" height="190" style="border-radius:50px;" src="https://scontent.flis10-1.fna.fbcdn.net/v/t39.30808-6/420948916_828048752685501_8970940522787238281_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=KFOlYtk6BV8Q7kNvwGACNua&_nc_oc=AdkbeVdlzk5U-KBduHs_aSwjVfyQNgICniWM2ciP4UUTfrrMQMr_wEiMjtYUJDkZZv0&_nc_zt=23&_nc_ht=scontent.flis10-1.fna&_nc_gid=_IxMt2lqmHkCdKjlUxb_yA&oh=00_AfEUjqcccHRprJl7QeUkXWmeYWhwQMQpcJvCmQvLofBquA&oe=6817F2F0">
  
 </div>
   
