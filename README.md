@@ -20,7 +20,7 @@
   
   <br><br>
   
-  <img align="center" alt="ISA-logo" height="100" src="https://i.imgur.com/ZF6s192.png"/> <!-- LOGO FUNCIONAL DO ISA -->
+  <img align="center" alt="ISA-logo" height="100" src="[https://i.imgur.com/ZF6s192.png](https://www.isa.ulisboa.pt/files/site/pub/LogoISA.jpg)"/> <!-- LOGO FUNCIONAL DO ISA -->
 
 </div>
 
