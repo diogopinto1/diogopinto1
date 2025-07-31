@@ -13,7 +13,7 @@
 
 ## 🎯 Research Vision
 
-> MSc Data Scientist with a focus on leveraging Machine Learning and GIS to enhance sustainable agriculture and water management. Specializing in intelligent sensory data applications, such as irrigation system optimization, and developing interactive dashboards for real-time environmental insights. Committed to creating practical data-driven solutions that support rural development and it's innovations.
+> MSc Data Science with a focus on leveraging Machine Learning and GIS to enhance sustainable agriculture and water management. Specializing in intelligent sensory data applications, such as irrigation system optimization, and developing interactive dashboards for real-time environmental insights. Committed to creating practical data-driven solutions that support rural development and it's innovations.
 
 <br>
 
